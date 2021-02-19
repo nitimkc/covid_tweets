@@ -1,0 +1,4 @@
+data/
+contracts/
+results/**/*
+!results/finalselection/plots/
